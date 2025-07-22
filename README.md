@@ -15,7 +15,7 @@ The highlight of Day 2 is the **Tip Calculator** project.
 - Takes into account the tip percentage
 - Uses rounding, f-strings, and arithmetic logic
 
----
+--- 
 
 ## 🧠 Practice Files
 
